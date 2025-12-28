@@ -1,5 +1,11 @@
-# 💫 About Me:
-Im open to work on projects<br>Open to collaborate on any projects<br>Looking for help me scaling exiting projects<br>Currently mastering DSA in C++<br>Ask me about Machine Learning<br>I love playing my guitar<br>
+### 👋 About Me
+
+- 💡 Passionate about building and collaborating on meaningful projects  
+- 🔧 Open to contributing to and scaling existing codebases  
+- 🧠 Currently focused on strengthening **DSA in C++**  
+- 🤖 Interested in **Machine Learning** — feel free to ask me about it  
+- 🎸 Music lover who enjoys playing the guitar in free time  
+
 
 
 ## 🌐 Socials:
