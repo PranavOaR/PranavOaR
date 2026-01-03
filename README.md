@@ -30,8 +30,8 @@ I enjoy working across the stack — from **event-driven backends and ML pipelin
 ---
 
 ### ⚙️ Frameworks & Technologies
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat&logo=apachekafka)
@@ -42,18 +42,54 @@ I enjoy working across the stack — from **event-driven backends and ML pipelin
 
 ---
 
+### 🧠 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+
+---
+
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📦 Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+### 🆔 IDGuard — Face Recognition Attendance System
+**AI-powered system to prevent proxy attendance using computer vision**
+
+- Achieved **99.2% face verification accuracy**
+- Live attendance dashboard with real-time updates
+- Secure authentication using **Firebase**
+- CSV export for attendance reports
+- Dockerized backend for deployment
+
+**Tech:** Python, FastAPI, OpenCV, Next.js, Firebase, Docker
+
+---
+
+### 🤖 Aleph — Multi-Agent IDE & Runtime
+**Developer-first IDE for building, debugging, and orchestrating AI agents**
+
+- Visual, real-time execution of AI agents with **live reasoning traces**
+- Step-by-step debugging of agent thoughts, actions, and tool calls
+- Agent editor with custom prompts, tools, and persistent memory
+- WebSocket-powered real-time updates and execution analytics
+
+**Tech:** Next.js, FastAPI, WebSockets, SQLAlchemy, Tailwind CSS, Framer Motion
 
 ---
 
@@ -70,31 +106,6 @@ I enjoy working across the stack — from **event-driven backends and ML pipelin
 
 **Tech:** Python, FastAPI, Kafka, ClickHouse, MQTT, Next.js, WebSockets, Docker, Scikit-learn  
 🏆 *Built for EY Techathon 2025*
-
----
-
-### 🤖 Aleph — Multi-Agent IDE & Runtime
-**Developer-first IDE for building, debugging, and orchestrating AI agents**
-
-- Visual, real-time execution of AI agents with **live reasoning traces**
-- Step-by-step debugging of agent thoughts, actions, and tool calls
-- Agent editor with custom prompts, tools, and persistent memory
-- WebSocket-powered real-time updates and execution analytics
-
-**Tech:** Next.js, FastAPI, WebSockets, SQLAlchemy, Tailwind CSS, Framer Motion
-
----
-
-### 🆔 IDGuard — Face Recognition Attendance System
-**AI-powered system to prevent proxy attendance using computer vision**
-
-- Achieved **99.2% face verification accuracy**
-- Live attendance dashboard with real-time updates
-- Secure authentication using **Firebase**
-- CSV export for attendance reports
-- Dockerized backend for deployment
-
-**Tech:** Python, FastAPI, OpenCV, Next.js, Firebase, Docker
 
 ---
 
@@ -137,7 +148,3 @@ Web Designing Club Member
 💼 **LinkedIn:** https://linkedin.com/in/PranavRao  
 💻 **GitHub:** https://github.com/PranavOaR  
 📧 **Email:** pranavrao168@gmail.com  
-
----
-
-> *Building systems. Shipping products. Obsessed with clean architecture and real-time systems.*
