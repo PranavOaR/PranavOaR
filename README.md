@@ -1,7 +1,7 @@
 # Hi, I'm T R Pranav Rao 👋  
 Computer Science Engineering student and aspiring **Full Stack / Systems Engineer** passionate about building **real-time systems, AI platforms, and production-grade software**.
 
-I enjoy working across the stack — from **event-driven backends and ML pipelines** to **clean, responsive frontend dashboards** — with a strong focus on **architecture, performance, and observability**.
+I enjoy working across the stack from **event-driven backends and ML pipelines** to **clean, responsive frontend dashboards** with a strong focus on **architecture, performance, and observability**.
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy working across the stack — from **event-driven backends and ML pipelin
 ### 🤖 Aleph — Multi-Agent IDE & Runtime
 **Developer-first IDE for building, debugging, and orchestrating AI agents**
 
-- Visual, real-time execution of AI agents with **live reasoning traces**
+- Visual, real time execution of AI agents with **live reasoning traces**
 - Step-by-step debugging of agent thoughts, actions, and tool calls
 - Agent editor with custom prompts, tools, and persistent memory
 - WebSocket-powered real-time updates and execution analytics
