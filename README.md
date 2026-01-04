@@ -8,7 +8,7 @@ I enjoy working across the stack from **event-driven backends and ML pipelines**
 ## 🚀 About Me
 
 🎓 B.Tech in Computer Science Engineering @ **REVA University (2024 – 2028)**  
-🧠 Strong foundations in **DSA, systems programming, and backend architecture**  
+🧠 Strong foundations in **DSA, machine learning, and backend architecture**  
 🤖 Building **AI-driven platforms, multi-agent systems, and real-time dashboards**  
 🔐 Experience in **cybersecurity research and applied AI systems**  
 🌱 Constantly learning by shipping real-world projects  
