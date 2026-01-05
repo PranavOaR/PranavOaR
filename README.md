@@ -1,5 +1,5 @@
 # Hi, I'm T R Pranav Rao 👋  
-Computer Science Engineering student and aspiring **Full Stack / Systems Engineer** passionate about building **real-time systems, AI platforms, and production-grade software**.
+Computer Science Engineering student and aspiring **Full Stack / ML Engineer** passionate about building **real-time systems, AI platforms, and production-grade software**.
 
 I enjoy working across the stack from **event-driven backends and ML pipelines** to **clean, responsive frontend dashboards** with a strong focus on **architecture, performance, and observability**.
 
