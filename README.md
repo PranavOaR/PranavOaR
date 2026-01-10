@@ -68,6 +68,11 @@
 **Tech:** Python, FastAPI, OpenCV, Next.js, Firebase, Docker  
 🔗 [Repo](https://github.com/PranavOaR/FaceAttendance)
 
+#### 🤖 [Aleph — Multi-Agent IDE & Runtime](https://github.com/PranavOaR)
+**Developer-first IDE for building, debugging, and orchestrating AI agents** with visual execution and live reasoning traces.  
+**Tech:** Next.js, FastAPI, WebSockets, SQLAlchemy, Tailwind CSS, Framer Motion  
+🔗 [Repo](https://github.com/PranavOaR)
+
 #### 🚗 [Automotive Predictive Maintenance System](https://github.com/PranavOaR)
 **Real-time telemetry platform** for proactive vehicle health monitoring and anomaly detection.  
 **Tech:** Python, Kafka, ClickHouse, MQTT, WebSockets, Scikit-learn  
@@ -77,6 +82,25 @@
 #### ⚡ **Odin** `IN DEVELOPMENT`
 **Advanced AI Agent System** exploring multi-agent architecture and autonomous workflows.  
 **Tech:** Artificial Intelligence, Large Language Models  
+
+---
+
+### 💼 Experience
+
+#### 🔐 Intern — SISA Infosec (Apr 2024 – Jun 2024)
+- Researched cyber threat groups and underground forums
+- Assisted in client incident response and security analysis
+- Documented optimized workflows for complex cybersecurity tasks
+
+#### 🤖 Intern — Robomations (Jul 2024 – Sep 2024)
+- Worked on STEM and robotics projects for school students
+- Led **two teams** in IHFC IIT-Delhi robotics competition
+- Managed coordination and administrative responsibilities
+
+#### 🧩 Intern — Robomations (Apr 2023 – Jun 2023)
+- Designed social media carousels
+- Built a basic mobile robot using **Arduino**
+- Developed multiple STEM-focused projects
 
 ---
 
