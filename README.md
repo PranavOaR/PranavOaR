@@ -4,7 +4,6 @@ Computer Science Engineering student and aspiring **Full Stack / ML Engineer** p
 I enjoy working across the stack from **event-driven backends and ML pipelines** to **clean, responsive frontend dashboards** with a strong focus on **architecture, performance, and observability**.
 
 ---
-
 ## 🚀 About Me
 
 🎓 B.Tech in Computer Science Engineering @ **REVA University (2024 – 2028)**  
