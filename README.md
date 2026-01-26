@@ -1,6 +1,6 @@
 # <div align="center">T R Pranav Rao</div>
 <div align="center">
-  <b>CSE Student | Aspiring Full Stack & ML Engineer | Building Real-Time AI Systems</b>
+  <b>CSE Student | Aspiring Data Science & ML Engineer | Building Real-Time AI Systems</b>
 </div>
 
 <br />
