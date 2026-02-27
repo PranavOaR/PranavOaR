@@ -5,7 +5,7 @@
 
 <br />
 
-### �‍💻 About Me
+### �‍💻 About Mee
 
 - 🎓 I’m a **Computer Science & Engineering student** at **REVA University** (2024 – 2028).
 - 💻 Building **production-grade software**, **AI-driven platforms**, and **real-time systems**.
