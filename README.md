@@ -5,13 +5,13 @@
 
 <br />
 
-### �‍💻 About Mee
+### About Me
 
-- 🎓 I’m a **Computer Science & Engineering student** at **REVA University** (2024 – 2028).
-- 💻 Building **production-grade software**, **AI-driven platforms**, and **real-time systems**.
-- 🧠 Strong ambition in **Distributed Systems**, **Machine Learning**, and **Backend Architecture**.
-- 🔐 Experience in **Cybersecurity research** and **Robotics**.
-- 📍 Based in **Bangalore, India**.
+-  I’m a **Computer Science & Engineering student** at **REVA University** (2024 – 2028).
+- Building **production-grade software**, **AI-driven platforms**, and **real-time systems**.
+- Strong ambition in **Distributed Systems**, **Machine Learning**, and **Backend Architecture**.
+-  Experience in **Cybersecurity research** and **Robotics**.
+- Based in **Bangalore, India**.
 
 ---
 
