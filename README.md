@@ -23,7 +23,7 @@ T R Pranav Rao · CSE '28, REVA University · Bangalore, India
 - real-time or bust latency is a product decision
 
 **currently**
-- B.Tech CSE @ REVA University, 2024–2028
+- B.Tech CSE @ REVA University, 2024–2028 (i know i mentioned it two times - thanks claude)
 - AIML Intern @Robomations
 - building nothing 
 - working on PrepPilot — one stop solution for placements 
