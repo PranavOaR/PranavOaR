@@ -11,21 +11,22 @@ T R Pranav Rao · CSE '28, REVA University · Bangalore, India
 
 ---
 
-**what i do**
-- design, build, and ship AI-driven platforms
-- obsess over real-time systems and scalable architecture
-- turn half-baked ideas into production software (sometimes)
-- do cybersecurity research and occasionally break robots
+**what i dont do**
+- trying to vibecode and get shit done (i understand the code okayyy)
+- obsess over machine learning and transformers and ai slop
+- turn unfinished ideas into finished ones i guess (never have i)
+- do cybersecurity research and occasionally break robots or just am doing nonsense on claude code
 
-**how i work**
+**how i function**
 - if it doesn't ship, it doesn't count
-- engineering and design go hand in hand (on a good day)
-- real-time or bust — latency is a product decision
+- i dont function
+- real-time or bust latency is a product decision
 
 **currently**
 - B.Tech CSE @ REVA University, 2024–2028
-- building Aleph — a multi-agent IDE with live reasoning traces
-- working on Odin — autonomous multi-agent AI system (private for now)
+- AIML Intern @Robomations
+- building nothing 
+- working on PrepPilot — one stop solution for placements 
 
 ---
 
@@ -51,14 +52,6 @@ enterprise biometric attendance — face recognition + liveness detection + real
 `Aleph` → [github.com/PranavOaR](https://github.com/PranavOaR)  
 dev IDE for building, debugging, and orchestrating AI agents with visual execution + live reasoning traces  
 `next.js · fastapi · websockets · sqlalchemy · framer motion`
-
-`Automotive Predictive Maintenance` → [github.com/PranavOaR](https://github.com/PranavOaR)  
-real-time telemetry platform for proactive vehicle health monitoring and anomaly detection  
-`python · kafka · clickhouse · mqtt · scikit-learn`
-
-`Odin` *(in development)*  
-advanced multi-agent AI system exploring autonomous workflows  
-`LLMs · agentic architecture`
 
 ---
 
