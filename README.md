@@ -1,135 +1,81 @@
-# <div align="center">T R Pranav Rao</div>
-<div align="center">
-  <b>CSE Student | Aspiring Data Science & ML Engineer | Building Real-Time AI Systems</b>
-</div>
+```
+██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
+██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
+██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
+██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝ 
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝ 
+```
 
-<br />
-
-### About Me
-
--  I’m a **Computer Science & Engineering student** at **REVA University** (2024 – 2028).
-- Building **production-grade software**, **AI-driven platforms**, and **real-time systems**.
-- Strong ambition in **Distributed Systems**, **Machine Learning**, and **Backend Architecture**.
--  Experience in **Cybersecurity research** and **Robotics**.
-- Based in **Bangalore, India**.
+T R Pranav Rao · CSE '28, REVA University · Bangalore, India
 
 ---
 
-### 🛠 Tech Stack
+**what i do**
+- design, build, and ship AI-driven platforms
+- obsess over real-time systems and scalable architecture
+- turn half-baked ideas into production software (sometimes)
+- do cybersecurity research and occasionally break robots
 
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**how i work**
+- if it doesn't ship, it doesn't count
+- engineering and design go hand in hand (on a good day)
+- real-time or bust — latency is a product decision
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-#### AI / ML
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-#### Systems & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**currently**
+- B.Tech CSE @ REVA University, 2024–2028
+- building Aleph — a multi-agent IDE with live reasoning traces
+- working on Odin — autonomous multi-agent AI system (private for now)
 
 ---
 
-### 🚀 Featured Projects
+**stack**
 
-#### 🆔 [IDGuard — AI Face Recognition Attendance](https://github.com/PranavOaR/FaceAttendance) `FEATURED`
-**Enterprise-grade biometric attendance system** with liveness detection and real-time analytics.  
-**Tech:** Python, FastAPI, OpenCV, Next.js, Firebase, Docker  
-🔗 [Repo](https://github.com/PranavOaR/FaceAttendance)
-
-#### 🤖 [Aleph — Multi-Agent IDE & Runtime](https://github.com/PranavOaR)
-**Developer-first IDE for building, debugging, and orchestrating AI agents** with visual execution and live reasoning traces.  
-**Tech:** Next.js, FastAPI, WebSockets, SQLAlchemy, Tailwind CSS, Framer Motion  
-🔗 [Repo](https://github.com/PranavOaR)
-
-#### 🚗 [Automotive Predictive Maintenance System](https://github.com/PranavOaR)
-**Real-time telemetry platform** for proactive vehicle health monitoring and anomaly detection.  
-**Tech:** Python, Kafka, ClickHouse, MQTT, WebSockets, Scikit-learn  
-🔗 [Repo](https://github.com/PranavOaR)
-
-
-#### ⚡ **Odin** `IN DEVELOPMENT`
-**Advanced AI Agent System** exploring multi-agent architecture and autonomous workflows.  
-**Tech:** Artificial Intelligence, Large Language Models  
+```
+lang   Python · C++ · TypeScript · JavaScript · SQL
+front  Next.js · React · Tailwind CSS · Framer Motion
+back   FastAPI · Node.js · Flask · Express
+data   PostgreSQL · ClickHouse · MongoDB · Firebase
+ai/ml  TensorFlow · Scikit-learn · OpenCV · NumPy · Pandas
+infra  Docker · Kafka · Linux · Git
+```
 
 ---
 
-### 💼 Experience
+**projects**
 
-#### 🔐 Intern — SISA Infosec (Apr 2024 – Jun 2024)
-- Researched cyber threat groups and underground forums
-- Assisted in client incident response and security analysis
-- Documented optimized workflows for complex cybersecurity tasks
+`IDGuard` → [github.com/PranavOaR/FaceAttendance](https://github.com/PranavOaR/FaceAttendance)  
+enterprise biometric attendance — face recognition + liveness detection + real-time analytics  
+`python · fastapi · opencv · next.js · firebase · docker`
 
-#### 🤖 Intern — Robomations (Jul 2024 – Sep 2024)
-- Worked on STEM and robotics projects for school students
-- Led **two teams** in IHFC IIT-Delhi robotics competition
-- Managed coordination and administrative responsibilities
+`Aleph` → [github.com/PranavOaR](https://github.com/PranavOaR)  
+dev IDE for building, debugging, and orchestrating AI agents with visual execution + live reasoning traces  
+`next.js · fastapi · websockets · sqlalchemy · framer motion`
 
-#### 🧩 Intern — Robomations (Apr 2023 – Jun 2023)
-- Designed social media carousels
-- Built a basic mobile robot using **Arduino**
-- Developed multiple STEM-focused projects
+`Automotive Predictive Maintenance` → [github.com/PranavOaR](https://github.com/PranavOaR)  
+real-time telemetry platform for proactive vehicle health monitoring and anomaly detection  
+`python · kafka · clickhouse · mqtt · scikit-learn`
 
----
-
-### 🌱 Interests & Learning
-
-- **Linux System Administration**  
-- **LangChain & AI Agents**  
-- **Observability & Scalable Systems**
+`Odin` *(in development)*  
+advanced multi-agent AI system exploring autonomous workflows  
+`LLMs · agentic architecture`
 
 ---
 
-### 🎓 Education
+**experience**
 
-**B.Tech in Computer Science & Engineering**  
-*REVA University, Bengaluru*  
-*2024 – 2028*
-
-**Advanced Science Stream (PCMC)**  
-*CMR National Public School, Bangalore*  
-*Web Designing Club Member*
+```
+2024   SISA Infosec      cybersecurity intern  · threat research, incident response
+2024   Robomations       robotics intern       · IHFC IIT-Delhi competition, team lead
+2023   Robomations       STEM intern           · Arduino robotics, social media design
+```
 
 ---
 
-### 📫 Let’s Connect
+**find me**
 
-- 💼 **LinkedIn:** [Pranav Rao](https://www.linkedin.com/in/pranav-rao-9030b7262)
-- 💻 **GitHub:** [PranavOaR](https://github.com/PranavOaR)
-- 📧 **Email:** pranavrao168@gmail.com
-
-<div align="center">
-  <b>Thanks for visiting!</b>
-</div>
+```
+github    → github.com/PranavOaR
+linkedin  → linkedin.com/in/pranav-rao-9030b7262
+email     → pranavrao168@gmail.com
+```
