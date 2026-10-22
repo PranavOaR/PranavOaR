@@ -19,7 +19,7 @@
 
 ### Current side quest
 
-Working on **Continuum** and exploring the fine art of turning ideas into software—and bugs into character development.
+Working on **Continuum** and exploring the fine art of turning ideas into software and bugs into character development.
 
 ### A project I built
 
