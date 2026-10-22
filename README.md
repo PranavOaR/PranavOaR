@@ -5,6 +5,8 @@
 **Working on Continuum · Building software, occasionally persuading it to cooperate**
 
 [![GitHub](https://img.shields.io/badge/GitHub-PranavOaR-181717?style=flat-square&logo=github)](https://github.com/PranavOaR)
+<sub>This README links back to the profile hosting it. Recursion, technically.</sub>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://pranavrao.vercel.app/)
 
 </div>
@@ -15,11 +17,11 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🔭 Current side quest
+### Current side quest
 
 Working on **Continuum** and exploring the fine art of turning ideas into software—and bugs into character development.
 
-### 🚀 A project I built
+### A project I built
 
 **[FaceAttendance](https://github.com/PranavOaR/FaceAttendance)**  
 An attendance project using face recognition and liveness detection. Calling names was apparently too reliable.
@@ -27,7 +29,7 @@ An attendance project using face recognition and liveness detection. Calling nam
 </td>
 <td width="45%" valign="top">
 
-### 🧭 Engineering principles, allegedly
+### Engineering principles, allegedly
 
 - Make it useful first; polish it before the placeholder becomes permanent.
 - “Works on my machine” is a hypothesis, not a release plan.
@@ -37,7 +39,7 @@ An attendance project using face recognition and liveness detection. Calling nam
 </tr>
 </table>
 
-### 🧰 Tools I’ve used
+### Tools I’ve used
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
